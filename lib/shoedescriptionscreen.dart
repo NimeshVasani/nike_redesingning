@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:uidesigning/customshoedescriptionscreenappbar.dart';
-import 'package:uidesigning/shoesizecontainer.dart';
+import 'package:nike_redesigning/customshoedescriptionscreenappbar.dart';
+import 'package:nike_redesigning/shoesizecontainer.dart';
 
 class ShoeDescriptionScreen extends StatefulWidget {
   final String price;

@@ -1,4 +1,4 @@
-# uidesigning
+# nike_redesigning
 
 A new Flutter project.
 

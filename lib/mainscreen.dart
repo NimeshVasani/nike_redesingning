@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:uidesigning/explorescreen.dart';
-import 'package:uidesigning/favoritescreen.dart';
-import 'package:uidesigning/userscreen.dart';
+import 'package:nike_redesigning/explorescreen.dart';
+import 'package:nike_redesigning/favoritescreen.dart';
+import 'package:nike_redesigning/userscreen.dart';
 
 import 'homescreen.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uidesigning/mainscreen.dart';
+import 'package:nike_redesigning/mainscreen.dart';
 
 void main() {
   runApp(const MyApp());

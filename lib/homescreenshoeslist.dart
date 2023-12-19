@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:uidesigning/shoedescriptionscreen.dart';
+import 'package:nike_redesigning/shoedescriptionscreen.dart';
 
 Widget homeScreenShoesList(BuildContext context) {
   var list = [

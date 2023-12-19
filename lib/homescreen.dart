@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:uidesigning/customhomescreenappbar.dart';
-import 'package:uidesigning/homescreencard.dart';
-import 'package:uidesigning/homescreenshoeslist.dart';
-import 'package:uidesigning/homescreentabbar.dart';
+import 'package:nike_redesigning/customhomescreenappbar.dart';
+import 'package:nike_redesigning/homescreencard.dart';
+import 'package:nike_redesigning/homescreenshoeslist.dart';
+import 'package:nike_redesigning/homescreentabbar.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
