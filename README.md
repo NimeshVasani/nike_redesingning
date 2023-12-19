@@ -12,7 +12,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 - 
-![alt text](https://github.com/NimeshVasani/nike_redesigning/nike_redisigning_ss_1.png
+![alt text](https://github.com/NimeshVasani/nike_redesigning/nike_redesigning_ss_1.png
 
 
 For help getting started with Flutter development, view the
