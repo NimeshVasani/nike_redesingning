@@ -1,8 +1,14 @@
-# nike_redesigning
+# Developer Info
 
-A new Flutter project.
+All copyright reserved @Nimesh Vasani 
 
-## Getting Started
+[GitHub Profile](https://github.com/NimeshVasani)
+
+[Linked-In](https://www.linkedin.com/in/nimesh-vasani-99b642154/)
+
+[Stack Overflow](https://stackoverflow.com/users/16579306/nimesh-vasani)
+
+## About The App
 
 # Flutter Nike App Redesign Challenge 🚀
 
