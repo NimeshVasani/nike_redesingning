@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:uidesigning/explorescreen.dart';
 import 'package:uidesigning/favoritescreen.dart';
-import 'package:uidesigning/shoedescriptionscreen.dart';
 import 'package:uidesigning/userscreen.dart';
 
 import 'homescreen.dart';
