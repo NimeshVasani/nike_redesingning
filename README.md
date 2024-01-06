@@ -37,7 +37,7 @@ A big shoutout to the Flutter community for inspiration and support. Let's colle
 ## Project Screenshot
 
 <!-- ![Nike App Redesign](path/to/nike_app_screenshot.jpg) -->
-<img src="https://github.com/NimeshVasani/nike_redesingning/blob/aaa4026443206284fe17c38f60a833c7c9b7e4c3/nike_redesigning_ss_1.png" alt="Nike App Redesign" width="300"/>
+![alt_text](https://github.com/NimeshVasani/nike_redesingning/blob/c574bfd47a661beb35681bb90d4428680ca3f71f/snapshots/nike_final.jpg)
 
 ## Stay Tuned for Updates! 👉
 
